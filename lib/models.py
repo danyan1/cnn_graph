@@ -102,7 +102,7 @@ class base_model(object):
                 indices.extend(np.random.permutation(train_data.shape[0]))
             idx = [indices.popleft() for i in range(self.batch_size)]
 
-            batch_data, batch_labels = train_data[idx,:], train_labels[idx]
+            batch_data, batch_labels = train_data[idx, :], train_labels[idx]
             if type(batch_data) is not np.ndarray:
                 batch_data = batch_data.toarray()  # convert sparse matrices
             feed_dict = {self.ph_data: batch_data, self.ph_labels: batch_labels, self.ph_dropout: self.dropout}
