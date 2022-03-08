@@ -117,7 +117,7 @@ params['pool'] = 'apool1'
 params['F'] = [32, 32]  # Number of graph convolutional filters.
 params['p'] = [4, 2]  # Pooling sizes.
 params['K'] = [10, 10]  # Polynomial orders.
-params['M'] = [128, C]  # Output dimensionality of fully connected layers.
+params['M'] = [128, 64, C]  # Output dimensionality of fully connected layers.
 # Optimization.
 params['regularization'] = 5e-4
 params['dropout'] = 0.5

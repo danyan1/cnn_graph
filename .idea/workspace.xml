@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7122f6bb-3b2f-4918-9bf2-1b5db97d6a27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BNA_matrix_binary.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BNA_matrix_binary_246x246.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3_cnn_graph_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s1_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rcv1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rcv1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trials/1_learning_filters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/trials/1_learning_filters.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trials/2_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/trials/2_classification.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trials/3_tensorflow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/trials/3_tensorflow.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/usage.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="7122f6bb-3b2f-4918-9bf2-1b5db97d6a27" name="Changes" comment="cnn_graph_test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +144,21 @@
       <option name="presentableId" value="Default" />
       <updated>1641679253884</updated>
     </task>
+    <task id="LOCAL-00001" summary="cnn_graph_test">
+      <created>1646709047723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646709047723</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cnn_graph_test">
+      <created>1646709066135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646709066135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="cnn_graph_test" />
+    <option name="LAST_COMMIT_MESSAGE" value="cnn_graph_test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
