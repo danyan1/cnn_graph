@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7122f6bb-3b2f-4918-9bf2-1b5db97d6a27" name="Changes" comment="cnn_graph_test" />
+    <list default="true" id="7122f6bb-3b2f-4918-9bf2-1b5db97d6a27" name="Changes" comment="cnn_graph_test">
+      <change beforePath="$PROJECT_DIR$/.idea/cnn_spectral_graph.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cnn_spectral_graph.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
